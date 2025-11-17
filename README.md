@@ -6,4 +6,5 @@
 | 2  | Hafiz Ramadhan   | 5027241096  |
 
 ## VLSM
-!(IMG/TopologiVLSM.png)
+![Gambarwes](IMG/TopologiVLSM.png)
+
